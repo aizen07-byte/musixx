@@ -14,7 +14,7 @@ module.exports = {
 
     const helpEmbed = new EmbedBuilder()
       .setTitle('Help - Available Commands')
-      .setDescription('- Developed By : GlaceYT\n- Type : Free Version')
+      .setDescription('- Developed By : AiZEN !\n- Type : Free Version')
       .setColor('#0099ff');
 
     commandFiles.forEach(file => {
